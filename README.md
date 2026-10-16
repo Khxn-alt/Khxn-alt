@@ -4,7 +4,7 @@
 
 # khxn
 
-**Software developer building desktop apps and tools with a focus on clean, polished design.**
+**Software developer and IT student building desktop apps and tools with a focus on clean, polished design.**
 
 </div>
 
