@@ -4,17 +4,16 @@
 
 # khxn
 
-**Software developer and IT student.**
+Software developer. I build desktop applications and tools for Windows.
 
 </div>
 
 ---
 
-## Featured project
+## Project: GameHub
 
-### GameHub
-
-All your games from Steam, Epic, Ubisoft, Riot and Rockstar in one launcher. And a full theme studio to make it your own.
+A game launcher for Windows. GameHub shows the games from Steam, Epic Games, Ubisoft Connect, Riot Games and Rockstar
+Games in one library and starts them through their own launcher.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Khxn-alt/gamehub-releases/main/assets/screenshot.png" alt="GameHub" width="88%">
@@ -22,17 +21,18 @@ All your games from Steam, Epic, Ubisoft, Riot and Rockstar in one launcher. And
 
 <p align="center">
 
-[![Download GameHub](https://img.shields.io/badge/Download-GameHub--Setup.exe-6c8cff?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Khxn-alt/gamehub-releases/releases/latest/download/GameHub-Setup.exe)
-[![Project page](https://img.shields.io/badge/Project%20page-gamehub--releases-a259ff?style=for-the-badge)](https://github.com/Khxn-alt/gamehub-releases)
+[![Download GameHub](https://img.shields.io/badge/Download-GameHub--Setup.exe-3d8bfd?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Khxn-alt/gamehub-releases/releases/latest/download/GameHub-Setup.exe)
+[![Project page](https://img.shields.io/badge/Project%20page-gamehub--releases-555?style=for-the-badge)](https://github.com/Khxn-alt/gamehub-releases)
 
 </p>
 
-- Auto-detects games from five launchers and starts them in the background
-- Four built-in themes plus a Theme Studio for custom colours, fonts, shapes and effects
-- Secure, signed, automatic updates and an encrypted package format
-- Custom installer with a guided setup
+- Detects installed games from five launchers
+- Playtime tracking, collections, Steam news and achievements
+- Controller support and free games alerts for Epic Games and Steam
+- Five themes and a theme editor
+- Signed automatic updates and a custom installer
 
-## What I work with
+## Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -41,12 +41,10 @@ All your games from Steam, Epic, Ubisoft, Riot and Rockstar in one launcher. And
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Desktop applications, user interface and design systems, installers and update systems, and application security basics.
-
 ---
 
 <div align="center">
 
-(c) 2026 khxn. All rights reserved.
+© 2026 khxn. All rights reserved.
 
 </div>
