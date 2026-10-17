@@ -4,7 +4,7 @@
 
 # khxn
 
-**Software developer and IT student building desktop apps and tools with a focus on clean, polished design.**
+**Software developer and IT student.**
 
 </div>
 
@@ -14,8 +14,7 @@
 
 ### GameHub
 
-All your games from Steam, Epic, Ubisoft, Riot and Rockstar in one beautiful Windows launcher. One click to play, live update
-status, 50+ supported apps, and a full theme studio to make it your own.
+All your games from Steam, Epic, Ubisoft, Riot and Rockstar in one launcher. And a full theme studio to make it your own.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Khxn-alt/gamehub-releases/main/assets/screenshot.png" alt="GameHub" width="88%">
