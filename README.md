@@ -12,8 +12,8 @@ Software developer and IT student. I build desktop applications and tools for Wi
 
 ## Project: GameHub
 
-A game launcher for Windows. GameHub shows the games from Steam, Epic Games, Ubisoft Connect, Riot Games and Rockstar
-Games in one library and starts them through their own launcher.
+A game launcher for Windows. GameHub shows the games from Steam, Epic Games, Ubisoft Connect, Riot Games, Rockstar Games,
+Xbox, EA app, GOG and Battle.net in one library and starts them through their own launcher.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Khxn-alt/gamehub-releases/main/assets/screenshot.png" alt="GameHub" width="88%">
@@ -26,10 +26,11 @@ Games in one library and starts them through their own launcher.
 
 </p>
 
-- Detects installed games from five launchers
-- Playtime tracking, collections, Steam news and achievements
-- Controller support and free games alerts for Epic Games and Steam
-- Five themes and a theme editor
+- Detects installed games from nine launchers, plus 280 supported apps
+- Playtime tracking with sessions, a calendar and a shareable profile card
+- Storage overview, collections, Steam news and achievements
+- Free games and deals from Epic Games and Steam
+- Controller support, five themes and a theme editor
 - Signed automatic updates and a custom installer
 
 ## Tools
