@@ -4,7 +4,7 @@
 
 # khxn
 
-Software developer and IT student. I build desktop applications and tools for Windows.
+IT student. I build desktop applications and tools for Windows.
 
 </div>
 
